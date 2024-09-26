@@ -12,7 +12,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - biker
 - uku
 - cat lover :3
-=======
+
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
@@ -20,4 +20,4 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in React allows me to create interactive and user-friendly interfaces...
 
->>>>>>> 68597295545ad204b5580f1d4b79fead74e3b336
+
